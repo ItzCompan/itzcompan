@@ -10,7 +10,7 @@
         "HTML",
         "CSS",
         "Java",
-        "Skript",
+        "C++",
         "Lua"
     },
     "intrests": {
