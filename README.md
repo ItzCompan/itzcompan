@@ -3,7 +3,6 @@
 ```json
 {
     "name": "Compan",
-    "age": "14",
     "programmingLanguages": {
         "Python",
         "JavaScript",
