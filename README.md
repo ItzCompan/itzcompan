@@ -6,11 +6,13 @@
     "programmingLanguages": {
         "Python",
         "JavaScript",
+        "TypeScript",
         "HTML",
         "CSS",
         "Java",
         "C++",
-        "Lua"
+        "Lua",
+        "SQL"
     },
     "intrests": {
         "programming",
