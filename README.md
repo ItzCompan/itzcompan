@@ -12,11 +12,14 @@
         "Java",
         "C++",
         "Lua",
-        "SQL"
+        "MySQL",
+        "MongoDB",
+        "PHP"
     },
     "intrests": {
         "programming",
-        "gaming"
+        "gaming",
+        "capybaras"
     }
 }
 ```
