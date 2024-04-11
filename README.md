@@ -13,7 +13,6 @@
         "C++",
         "Lua",
         "MySQL",
-        "MongoDB",
         "PHP"
     },
     "intrests": {
