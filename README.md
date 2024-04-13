@@ -12,8 +12,7 @@
         "Java",
         "C++",
         "Lua",
-        "MySQL",
-        "PHP"
+        "MySQL"
     },
     "intrests": {
         "programming",
