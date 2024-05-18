@@ -12,7 +12,8 @@
         "Java",
         "C++",
         "Lua",
-        "MySQL"
+        "PHP",
+        "Rust"
     },
     "intrests": {
         "programming",
