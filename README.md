@@ -18,6 +18,7 @@
     "intrests": {
         "programming",
         "gaming",
+        "sleeping",
         "capybaras"
     }
 }
