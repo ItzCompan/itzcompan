@@ -2,22 +2,16 @@
 
 ```json
 {
-    "name": "Compan",
+    "name": "prvv",
     "programmingLanguages": {
-        "Python",
+        "C++",
         "JavaScript",
-        "TypeScript",
+        "Java",
         "HTML",
         "CSS",
-        "Java",
-        "C++",
         "Lua",
-        "PHP",
-        "Rust"
     },
     "intrests": {
-        "programming",
-        "gaming",
         "sleeping",
         "capybaras"
     }
