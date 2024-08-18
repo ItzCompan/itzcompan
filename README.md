@@ -1,4 +1,4 @@
-## Hi 👋, I'm Compan_
+## Hi 👋, I'm .prvv
 
 ```json
 {
@@ -6,10 +6,14 @@
     "programmingLanguages": {
         "C++",
         "JavaScript",
+        "TypeScript",
         "Java",
         "HTML",
         "CSS",
         "Lua",
+        "PHP",
+        "Bash",
+        "Rust"
     },
     "intrests": {
         "sleeping",
